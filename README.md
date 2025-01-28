@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Developer** and a 
 
 ### Languages & Frameworks
 - **Programming**: C++, Java, JavaScript.  
-- **Frontend**: React, Angular, HTML, CSS.  
+- **Frontend**: HTML, CSS,React, Tailwind CSS, Bootstrap, ShadCN UI, Redux,Zustand,
 - **Backend**: Node.js, Express.js, REST APIs.  
 - **Full Stack**: MERN Stack, Next.js.  
 
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Developer** and a 
 
 ### DevOps Tools
 - Docker, Jenkins, Git, GitHub Actions.
-  
+
 ---
 
 ## 🚀 Projects
