@@ -117,30 +117,43 @@
 
 
 ## 🚀 Projects
-
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px;">
-  <!-- Project Card 1 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f4f4f4;">
-    <img src="https://via.placeholder.com/250" alt="VibeTalk" style="width: 100%; border-radius: 8px;">
-    <h3><a href="https://github.com/Ajaybhaskar-Athi/VibeTalk" target="_blank">VibeTalk - Chat Application</a></h3>
-    <p>A real-time chat app built using **MERN Stack**.</p>
-    <div>
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="25" height="25">
-      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="25" height="25">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="25" height="25">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="25" height="25">
-    </div>
-  </div>
-  
-  <!-- Project Card 2 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f4f4f4;">
-    <img src="https://via.placeholder.com/250" alt="Job Portal" style="width: 100%; border-radius: 8px;">
-    <h3><a href="https://github.com/yourusername/job-portal" target="_blank">Job Portal</a></h3>
-    <p>A job portal project built using **Next.js**.</p>
-    <div>
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="25" height="25">
-    </div>
-  </div>
-
-  <!-- Add other project cards in a similar fashion -->
-</div>
+<table align="center" border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ajaybhaskar-Athi/VibeTalk">VibeTalk</a><br>
+      Chat Application
+    </td>
+    <td align="center">
+      <a href="https://github.com/yourusername/job-portal">Job Portal</a><br>
+      Next.js Project
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ajaybhaskar-Athi/Amaravati-Essentials">Amaravati Essentials</a><br>
+      Grocery Shop
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ajaybhaskar-Athi/NextBlogs">Next.js Small Projects</a><br>
+      User Manager, Blogs
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ajaybhaskar-Athi/Tic-Tac-Toe">Tic Tac Toe</a><br>
+      React Game
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ajaybhaskar-Athi/Weather-App">Weather App</a><br>
+      Angular Project
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ajaybhaskar-Athi/N-Queen-Visualizer">N-Queen Visualizer</a><br>
+      HTML, CSS, JavaScript
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ajaybhaskar-Athi/Expanding-cardss">Expanding Cards</a><br>
+      Interactive UI
+    </td>
+  </tr>
+</table>
