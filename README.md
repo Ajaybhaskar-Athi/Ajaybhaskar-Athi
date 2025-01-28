@@ -5,10 +5,7 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Developer** and a 
 ---
 
 ## 🌍 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ajaybhaskar-athi/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaybhaskar.athi@gmail.com)
-
-[![Telegram](https://img.shields.io/badge/Telegram-%2300A9E0.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/GanggLeader)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ajaybhaskar-athi/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaybhaskar.athi@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-%2300A9E0.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/GanggLeader)  
 
 ---
 
