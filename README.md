@@ -79,7 +79,7 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=oracle" width="48" height="48" alt="Oracle" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
       <br>Oracle
     </td>
     <td align="center" width="98">
