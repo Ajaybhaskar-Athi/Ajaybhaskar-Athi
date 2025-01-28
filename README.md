@@ -12,7 +12,7 @@
 </p>
 
 
-<h2 align="left" border="0">My Tech Stack</h2>
+<h2 align="left" border="2">My Tech Stack</h2>
 
 <table>
   <tr>
