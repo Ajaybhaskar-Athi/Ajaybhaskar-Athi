@@ -16,6 +16,24 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Developer** and a 
 - 🌟 Doing **DSA** and solving problems in **Competitive Programming**.  
 - 🌱 Currently learning **Next.js** and **DevOps tools** like Docker and Jenkins.  
 
+
+
+---
+
+## 🔧 Skills
+
+### Languages & Frameworks
+- **Programming**: C++, Java, JavaScript.  
+- **Frontend**: React, Angular, HTML, CSS.  
+- **Backend**: Node.js, Express.js, REST APIs.  
+- **Full Stack**: MERN Stack, Next.js.  
+
+### Databases
+- MongoDB, MySQL.  
+
+### DevOps Tools
+- Docker, Jenkins, Git, GitHub Actions.
+  
 ---
 
 ## 🚀 Projects
@@ -45,21 +63,6 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Developer** and a 
 ### 🌟 [Expanding Cards](https://github.com/Ajaybhaskar-Athi/Expanding-cardss)  
 - A beautiful project featuring interactive expanding cards.  
 
----
-
-## 🔧 Skills
-
-### Languages & Frameworks
-- **Programming**: C++, Java, JavaScript.  
-- **Frontend**: React, Angular, HTML, CSS.  
-- **Backend**: Node.js, Express.js, REST APIs.  
-- **Full Stack**: MERN Stack, Next.js.  
-
-### Databases
-- MongoDB, MySQL.  
-
-### DevOps Tools
-- Docker, Jenkins, Git, GitHub Actions.  
 
 ---
 
