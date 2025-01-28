@@ -44,6 +44,17 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Developer** and a 
 **DevOps**: Docker, Jenkins, Git, GitHub Actions.  
 
 ### Tech Stack Images
+
+![C++](https://upload.wikimedia.org/wikipedia/commons/1/1b/C%2B%2B_logo.svg)  
+![Java](https://upload.wikimedia.org/wikipedia/commons/7/74/Java_logo_icon.png)  
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)  
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)  
+![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/6/60/Tailwind_CSS_Logo.svg)  
+![Node.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg)  
+![Docker](https://upload.wikimedia.org/wikipedia/commons/3/39/Docker_logo.svg)
+
+
+### Tech Stack Images
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
 ---
